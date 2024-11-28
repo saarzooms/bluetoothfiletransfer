@@ -1,0 +1,25 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_enable_bluetooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enable Bluetooth" />
+
+    <Button
+        android:id="@+id/btn_send_file"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send File" />
+
+    <Button
+        android:id="@+id/btn_receive_file"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Receive File" />
+</LinearLayout>
