@@ -1,5 +1,5 @@
 package com.example.bluetoothfiletransfer
-import FileTransferService
+
 import android.Manifest
 import android.bluetooth.BluetoothAdapter
 import android.content.Intent
